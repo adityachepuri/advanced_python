@@ -1,0 +1,3 @@
+25/06/2020 07:29:04 PM:WARNING:Warning Message
+25/06/2020 07:29:04 PM:ERROR:Error Message
+25/06/2020 07:29:04 PM:CRITICAL:Critical Message

@@ -1,0 +1,4 @@
+INFO:root:Info message from student module
+WARNING:root:Warning message from test module
+ERROR:root:Error message from test module
+CRITICAL:root:Critical message from test module

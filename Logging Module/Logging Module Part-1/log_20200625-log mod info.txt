@@ -1,0 +1,46 @@
+20:01:10:INFO:A New request came
+20:01:16:INFO:Request processing completed
+20:01:26:INFO:A New request came
+20:01:31:ERROR:invalid literal for int() with base 10: '2.5'
+Traceback (most recent call last):
+  File "E:/!! Durga Sir Python/Python Videos/Python/Practice programs/Advanced Python/Logging Module/Logging Module Part-1/log mod info.py", line 6, in <module>
+    y=int(input('Enter Second Number'))
+ValueError: invalid literal for int() with base 10: '2.5'
+20:01:31:INFO:Request processing completed
+20:02:04:INFO:A New request came
+20:02:08:INFO:Request processing completed
+20:03:11:INFO:A New request came
+20:03:15:INFO:Request processing completed
+20:03:20:INFO:A New request came
+20:03:29:ERROR:division by zero
+Traceback (most recent call last):
+  File "E:/!! Durga Sir Python/Python Videos/Python/Practice programs/Advanced Python/Logging Module/Logging Module Part-1/log mod info.py", line 7, in <module>
+    print(x/y)
+ZeroDivisionError: division by zero
+20:03:29:INFO:Request processing completed
+20:04:18:INFO:A New request came
+20:04:21:INFO:Request processing completed
+20:04:28:INFO:A New request came
+20:04:30:ERROR:invalid literal for int() with base 10: ''
+Traceback (most recent call last):
+  File "E:/!! Durga Sir Python/Python Videos/Python/Practice programs/Advanced Python/Logging Module/Logging Module Part-1/log mod info.py", line 5, in <module>
+    x=int(input('Enter First Number'))
+ValueError: invalid literal for int() with base 10: ''
+20:04:30:INFO:Request processing completed
+20:05:09:INFO:A New request came
+20:05:12:ERROR:invalid literal for int() with base 10: 'int'
+Traceback (most recent call last):
+  File "E:/!! Durga Sir Python/Python Videos/Python/Practice programs/Advanced Python/Logging Module/Logging Module Part-1/log mod info.py", line 5, in <module>
+    x=int(input('Enter First Number'))
+ValueError: invalid literal for int() with base 10: 'int'
+20:05:12:INFO:Request processing completed
+20:05:29:INFO:A New request came
+20:05:32:INFO:Request processing completed
+20:05:54:INFO:A New request came
+20:06:04:INFO:A New request came
+20:06:06:ERROR:division by zero
+Traceback (most recent call last):
+  File "E:/!! Durga Sir Python/Python Videos/Python/Practice programs/Advanced Python/Logging Module/Logging Module Part-1/log mod info.py", line 7, in <module>
+    print(x/y)
+ZeroDivisionError: division by zero
+20:06:06:INFO:Request processing completed
